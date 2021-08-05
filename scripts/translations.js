@@ -33,6 +33,7 @@ const languages = [
   'pl',
   'pt',
   'pt-BR',
+  'rs',
   'ro',
   'ru',
   'sk',
