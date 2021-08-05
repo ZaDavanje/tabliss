@@ -24,6 +24,7 @@ export const messages: Record<string, Record<string, string>> = {
   lb: require('./lang/lb.json'),
   nl: require('./lang/nl.json'),
   no: require('./lang/no.json'),
+  rs: require('./lang/rs.json'),
   ro: require('./lang/ro.json'),
   ru: require('./lang/ru.json'),
   sk: require('./lang/sk.json'),
